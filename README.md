@@ -14,10 +14,10 @@ When access opens, accounts can try ten minutes without a payment card. The
 one-time free allowance does not expire or renew, and does not automatically
 convert to a paid subscription. A paid monthly plan is a separate choice.
 
-- [Website and availability](https://koe.yuyakevinito.com/)
-- [Setup guide](https://koe.yuyakevinito.com/guide/)
+- [Website and availability](https://saykoe.com/)
+- [Setup guide](https://saykoe.com/guide/)
 - [Homebrew tap](https://github.com/YIPG/homebrew-tap)
-- [Privacy](https://koe.yuyakevinito.com/privacy/)
+- [Privacy](https://saykoe.com/privacy/)
 
 Only verified, owner-approved artifacts will be published here. Never disable
 Gatekeeper or remove quarantine to install koe. Third-party software license
