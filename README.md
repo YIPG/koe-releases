@@ -1,24 +1,18 @@
 # koe releases
 
-This repository is the public home for **koe application downloads and release
-notes**. Application, service, and website source are maintained privately.
+Signed, notarized downloads and release notes for **koe**, Mac dictation for
+Japanese and English (Apple Silicon, macOS 13 or later). Application, service and
+website source are private.
 
-**Public distribution has not started. No downloadable release is available yet.**
-This repository is not an invitation to use a test payment environment.
+- Download the latest DMG from [Releases](https://github.com/YIPG/koe-releases/releases/latest).
+- Or install with Homebrew: `brew install lenivis/tap/koe`
+- koe updates itself.
 
-koe is an account-based Mac dictation app for Apple Silicon and macOS 13 or later.
-The planned public distribution offers a signed, notarized download and a
-Homebrew cask. Both install the same application; no provider API key is required.
+Sign-in is invite-only for now. The first 30 minutes are free, no card.
 
-When access opens, accounts can try ten minutes without a payment card. The
-one-time free allowance does not expire or renew, and does not automatically
-convert to a paid subscription. A paid monthly plan is a separate choice.
-
-- [Website and availability](https://saykoe.com/)
+- [Website](https://saykoe.com/)
 - [Setup guide](https://saykoe.com/guide/)
-- [Homebrew tap](https://github.com/YIPG/homebrew-tap)
+- [Homebrew tap](https://github.com/lenivis/homebrew-tap)
 - [Privacy](https://saykoe.com/privacy/)
 
-Only verified, owner-approved artifacts will be published here. Never disable
-Gatekeeper or remove quarantine to install koe. Third-party software license
-notices are included inside each application bundle.
+Third-party software license notices are included inside each application bundle.
